@@ -1,6 +1,7 @@
 # game_tracker
 
-A new Flutter project.
+Rafha Nasrul Fathoni
+241091700052
 
 ## Getting Started
 
